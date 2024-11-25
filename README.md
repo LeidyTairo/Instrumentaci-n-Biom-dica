@@ -1,2 +1,2 @@
-# Instrumentaci-n-Biom-dica
+# Instrumentación-Biomédica
 Proyecto de detección de Infarto Agudo al miocardio
